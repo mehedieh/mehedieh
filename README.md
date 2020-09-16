@@ -1,4 +1,21 @@
+### Hey 👋, I'm Mehedi Hasan
 
+<a href="https://www.linkedin.com/in/mehedihasan1999/">
+  <img align="left" alt="Mehedi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/_mehedie/">
+  <img align="left" alt="Mehedi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/deadpotterhead">
+  <img align="left" alt="Mehedi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<br />
+<br />
+
+Hi there, I'm **Mehedi Hasan**, a **Python Coder** and a **beginner web developer** 🚀 from Bangladesh, currently, I'm a Community Team Member 💻 [@Mehedieh](https://github.com/mehedieh).
+
+  <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -16,5 +33,5 @@
 
 ### My GitHub Stats
 
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=mehedieh&show_icons=true)
+![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedieh&show_icons=true)
 
