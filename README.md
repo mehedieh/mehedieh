@@ -31,7 +31,7 @@ Hi there, I'm **Mehedi Hasan**, a **Python Coder** and a **beginner web develope
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
-### My GitHub Stats
+## My GitHub Stats
 
 ![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedieh&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedieh&layout=compact)
