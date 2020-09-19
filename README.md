@@ -33,5 +33,5 @@ Hi there, I'm **Mehedi Hasan**, a **Python Coder** and a **beginner web develope
 
 ### My GitHub Stats
 
-![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedieh&show_icons=true)
+![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedieh&show_icons=true&theme=tokyonight&count_private=true)
 
