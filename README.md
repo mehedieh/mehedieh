@@ -19,7 +19,7 @@ Hi there, I'm **Mehedi Hasan**, a **Python Coder** and a **beginner web develope
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a cs student; 
+- 👨🏽‍💻 future cs student; 
 - 🤔 My interests are with python programming, data science, web developing etc..;
 - 💼 I’m currently learning JuliaLang;
 - 💬 Ask me about anything, I am happy to help;
