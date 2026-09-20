@@ -1,38 +1,60 @@
-### Hey 👋, I'm Mehedi Hasan
+# Mehedi Hasan Shanto
 
-<a href="https://www.linkedin.com/in/mehedihasan1999/">
-  <img align="left" alt="Mehedi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/_mehedie/">
-  <img align="left" alt="Mehedi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/deadpotterhead">
-  <img align="left" alt="Mehedi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+**Python Developer** · Data Science · Web · Dhaka, Bangladesh 🇧🇩
 
-<br />
-<br />
+[LinkedIn](https://www.linkedin.com/in/mehedihasan1999/) · [Instagram](https://www.instagram.com/_mehedie/) · [Facebook](https://www.facebook.com/deadpotterhead) · [Email](mailto:YOUR_EMAIL)
 
-Hi there, I'm **Mehedi Hasan**, a **Python Coder** and a **beginner web developer** 🚀 from Bangladesh, currently, I'm a Community Team Member 💻 [@Mehedieh](https://github.com/mehedieh).
+---
 
-  <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+## About
 
-### Talking about Personal Stuffs:
+I write Python and build for the web, with a growing interest in data science and numerical computing. Currently a Community Team Member at [@Mehedieh](https://github.com/mehedieh).
 
-- 👨🏽‍💻 Part time learner; 
-- 🤔 My interests are with python programming, data science, web developing etc..;
-- 💼 I’m currently learning JuliaLang;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
+- 🌱 Learning **Julia**
+- 📊 Exploring data science workflows
+- 💬 Happy to help with Python questions
+- 🦈 [Pull Shark](https://github.com/mehedieh?achievement=pull-shark&tab=achievements) · ❄️ [Arctic Code Vault Contributor](https://github.com/mehedieh?achievement=arctic-code-vault-contributor&tab=achievements)
 
-### Languages and Tools:
+## Featured Projects
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [Lapostat](https://github.com/mehedieh/Lapostat) | A personal tool I built to solve my own workflow | Python |
+| [root-finder](https://github.com/mehedieh/root-finder) | Numerical root-finding tool built for my MAT360 course | JavaScript |
+| [calculate](https://github.com/mehedieh/calculate) | A small calculation utility | JavaScript |
+| [TorrentBD-Bug](https://github.com/mehedieh/TorrentBD-Bug) | Write-up of a bug I found on TorrentBD | n/a |
+
+## Tech Stack
+
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 
-![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedieh&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedieh&layout=compact)
 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
+
+
+
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+
+
+
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+
+
+## GitHub Stats
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mehedieh&show_icons=true&theme=tokyonight&count_private=true)
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedieh&layout=compact&theme=tokyonight)
 
