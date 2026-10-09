@@ -51,10 +51,9 @@ I write Python and build for the web, with a growing interest in data science an
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mehedieh&show_icons=true&theme=tokyonight&count_private=true)
+![mehedieh's GitHub Stats](https://readme-stats-github.pages.dev/api?username=mehedieh&theme=shadow)
 
 
+![mehedieh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehedieh&theme=vue-dark&hide_border=true)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedieh&layout=compact&theme=tokyonight)
-
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=mehedieh&theme=shadow)
