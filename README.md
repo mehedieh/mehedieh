@@ -42,6 +42,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://mehedieh.github.io/typeset/">Typeset — LaTeX CV Studio</a></h3>
+      A LaTeX CV builder that runs in your browser: fill in a form, watch the page typeset live, export a <b>PDF or clean .tex</b>. Offline, installable, and <b>your data never leaves your device</b>.
+      <br/><br/>
+      <code>JavaScript</code> <code>LaTeX</code> <code>PWA</code> <code>Go</code>
+      <br/><br/>
+      <a href="https://mehedieh.github.io/typeset/">Open the app →</a> · <a href="https://mehedieh.github.io/projects/typeset/">Case study →</a>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/mehedieh/WordSmrt">WordSmrt</a></h3>
       Privacy-first English–Bangla vocabulary app with flashcards, quizzes and spaced repetition. Runs fully offline with <b>zero Android permissions</b>.
       <br/><br/>
@@ -49,6 +57,8 @@
       <br/><br/>
       <a href="https://mehedieh.github.io/projects/wordsmrt/">Case study →</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mehedieh/SmartLedger">SmartLedger</a></h3>
       Offline point-of-sale and bookkeeping for small retailers: inventory, invoices, dues and thermal printing, on an <b>SQLCipher-encrypted</b> database with biometric lock.
@@ -57,8 +67,6 @@
       <br/><br/>
       <a href="https://mehedieh.github.io/projects/smartledger/">Case study →</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mehedieh/railway-booking-helper">BD Railway Helper</a></h3>
       Chrome extension that speeds up booking your own Bangladesh Railway tickets, and by design <b>never touches login, CAPTCHA, OTP or payment</b>.
@@ -67,18 +75,10 @@
       <br/><br/>
       <a href="https://mehedieh.github.io/projects/bd-railway-helper/">Case study →</a>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mehedieh/root-finder">root-finder</a></h3>
-      Numerical root-finding methods in the browser, built for my MAT360 numerical-methods course.
-      <br/><br/>
-      <code>JavaScript</code> <code>Numerical methods</code>
-      <br/><br/>
-      <a href="https://r00tf.netlify.app/">Live demo →</a>
-    </td>
   </tr>
 </table>
 
-<sub>Also: <a href="https://github.com/mehedieh/Lapostat">Lapostat</a> (a Python workflow tool) · <a href="https://github.com/mehedieh/TorrentBD-Bug">TorrentBD-Bug</a> (bug write-up) · <a href="https://github.com/mehedieh?tab=repositories">all repositories</a></sub>
+<sub>Also: <a href="https://github.com/mehedieh/root-finder">root-finder</a> (numerical methods, <a href="https://r00tf.netlify.app/">live demo</a>) · <a href="https://github.com/mehedieh/Lapostat">Lapostat</a> (a Python workflow tool) · <a href="https://github.com/mehedieh/TorrentBD-Bug">TorrentBD-Bug</a> (bug write-up) · <a href="https://github.com/mehedieh?tab=repositories">all repositories</a></sub>
 
 ## Credentials & right now
 
