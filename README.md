@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  Physics undergraduate at <b>GSTU</b> · Cyber Security Analyst · Android developer<br/>
+  Physics undergraduate at <b>GSTU</b> · Cyber Security Analyst · Software developer<br/>
   <sub>Gopalganj, Bangladesh</sub>
 </p>
 
@@ -15,6 +15,10 @@
 <a href="https://www.linkedin.com/in/mehedhk"><img src="https://img.shields.io/badge/LinkedIn-mehedhk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:bsmrstu.mehedi@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-1C1C1E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://mehedieh.github.io/files/cv.pdf"><img src="https://img.shields.io/badge/CV-Download-34A853?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/></a>
+
+<br/><br/>
+
+<a href="https://mehedieh.github.io/tools/typeset/"><img src="https://img.shields.io/badge/Try_it-Typeset_·_LaTeX_CV_Studio-1F6F5C?style=flat-square&logo=latex&logoColor=white" alt="Try Typeset, LaTeX CV Studio"/></a>
 
 </div>
 
@@ -28,7 +32,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>📱 Software</h3>
-      Offline-first Android apps in <b>Kotlin</b> and <b>Jetpack Compose</b> that keep personal data on the device: encrypted, minimal permissions, no accounts.
+      Offline-first apps that keep personal data on the device: Android in <b>Kotlin</b> and <b>Jetpack Compose</b>, plus browser tools that need no account and no server.
     </td>
     <td width="33%" valign="top">
       <h3>⚛️ Physics</h3>
@@ -42,14 +46,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://mehedieh.github.io/typeset/">Typeset — LaTeX CV Studio</a></h3>
-      A LaTeX CV builder that runs in your browser: fill in a form, watch the page typeset live, export a <b>PDF or clean .tex</b>. Offline, installable, and <b>your data never leaves your device</b>.
-      <br/><br/>
-      <code>JavaScript</code> <code>LaTeX</code> <code>PWA</code> <code>Go</code>
-      <br/><br/>
-      <a href="https://mehedieh.github.io/typeset/">Open the app →</a> · <a href="https://mehedieh.github.io/projects/typeset/">Case study →</a>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/mehedieh/WordSmrt">WordSmrt</a></h3>
       Privacy-first English–Bangla vocabulary app with flashcards, quizzes and spaced repetition. Runs fully offline with <b>zero Android permissions</b>.
       <br/><br/>
@@ -57,8 +53,6 @@
       <br/><br/>
       <a href="https://mehedieh.github.io/projects/wordsmrt/">Case study →</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mehedieh/SmartLedger">SmartLedger</a></h3>
       Offline point-of-sale and bookkeeping for small retailers: inventory, invoices, dues and thermal printing, on an <b>SQLCipher-encrypted</b> database with biometric lock.
@@ -66,6 +60,16 @@
       <code>Kotlin</code> <code>Compose</code> <code>Hilt</code> <code>SQLCipher</code>
       <br/><br/>
       <a href="https://mehedieh.github.io/projects/smartledger/">Case study →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://mehedieh.github.io/tools/typeset/">Typeset · LaTeX CV Studio</a></h3>
+      Build a LaTeX-quality CV in the browser with a <b>live, page-accurate preview</b>. Export a print-ready PDF or <code>.tex</code> for pdfLaTeX and Overleaf. Works offline, and <b>your CV never leaves your device</b>.
+      <br/><br/>
+      <code>JavaScript</code> <code>LaTeX</code> <code>Latin Modern</code>
+      <br/><br/>
+      <a href="https://mehedieh.github.io/tools/typeset/"><b>Open the app →</b></a> · <a href="https://mehedieh.github.io/projects/typeset/">About it</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mehedieh/railway-booking-helper">BD Railway Helper</a></h3>
@@ -78,7 +82,7 @@
   </tr>
 </table>
 
-<sub>Also: <a href="https://github.com/mehedieh/root-finder">root-finder</a> (numerical methods, <a href="https://r00tf.netlify.app/">live demo</a>) · <a href="https://github.com/mehedieh/Lapostat">Lapostat</a> (a Python workflow tool) · <a href="https://github.com/mehedieh/TorrentBD-Bug">TorrentBD-Bug</a> (bug write-up) · <a href="https://github.com/mehedieh?tab=repositories">all repositories</a></sub>
+<sub>Also: <a href="https://github.com/mehedieh/root-finder">root-finder</a> (numerical methods, <a href="https://r00tf.netlify.app/">live demo</a>) · <a href="https://mehedieh.github.io/physics/">double pendulum simulation</a> · <a href="https://github.com/mehedieh/Lapostat">Lapostat</a> (Python workflow tool) · <a href="https://github.com/mehedieh/TorrentBD-Bug">TorrentBD-Bug</a> (bug write-up) · <a href="https://github.com/mehedieh?tab=repositories">all repositories</a></sub>
 
 ## Credentials & right now
 
@@ -87,8 +91,9 @@
 | 🎓 **Certified** | [Certified Cybersecurity Educator Professional (CCEP)](https://courses.redteamleaders.com/exam-completion/d46c0b1226997657), Red Team Leaders, 2026 |
 | 🏅 **Recognition** | Regional winner, Bangladesh Physics Olympiad 2019 |
 | 💼 **Working** | Cyber Security Analyst, Firewall BD |
+| 🛡️ **Teaching** | Data safety for university students, Data Shield (ActionAid project) |
 | 🌱 **Learning** | Julia for scientific computing |
-| 💬 **Ask me about** | Android security, Python, classical mechanics |
+| 💬 **Ask me about** | Android security, Python, LaTeX, classical mechanics |
 
 ## Tech stack
 
@@ -98,10 +103,17 @@
 ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
 ![SQLCipher](https://img.shields.io/badge/SQLCipher-1C1C1E?style=flat-square&logo=sqlite&logoColor=white)
 
-**Languages**&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Web**&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
+**Languages & science**&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 **Tools**&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -119,7 +131,7 @@
 - [How to start learning to code](https://mehedieh.github.io/writing/how-to-start-learning-to-code/)
 <!-- BLOG-POST-LIST:END -->
 
-➜ [All writing](https://mehedieh.github.io/writing/)
+➜ [All writing](https://mehedieh.github.io/writing/) · 📱 The site installs as an app on Android: open it in Chrome → **⋮ → Install app**
 
 ## GitHub stats
 
